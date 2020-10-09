@@ -1,0 +1,15 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "instagram liker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "RJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^5.1.0"
+  }
+}
